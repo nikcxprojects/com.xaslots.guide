@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Vavada</string>
+    <string name="file_chooser_title" translatable="false">choose file</string>
+    <string name="cannot_open_file_chooser_txt" translatable="false">Open file</string>
+    <string name="please_acce">\nPLEASE ACCEPT OUR \\ TO USE AN APP</string>
+    <string name="please_acce_police" underline="true">PRIVACY POLICY</string>
+
+    <string name="Slot_Machines">A slot machine is a gambling game with spinning reels. Those reels 
+have symbols on them, which land randomly after you place a bet and spin the reels. 
+If these symbols line up, you win prizes based on which symbols fall on that 
+“payline”.</string>
+    <string name="Roullette">Roulette is a game of chance. It uses a spinning wheel with either 37 or 
+38 numbered pockets. The roulette wheel is spun one way and a ball is sent round 
+the other way.</string>
+    <string name="Poker">Poker is a card game that involves betting with chips and keeping a straight 
+face. You can also play poker online and make any kind of face you want.</string>
+    <string name="BlackJack">Is a a gambling game using cards; the object is to hold cards having a 
+higher count than those dealt to the banker up to but not exceeding 2</string>
+    <string name="Baccarat"> A baccarat game is a classic Bond-movie setting, which perhaps makes 
+the game seem more intimidating than it should. Baccarat is actually a simple game 
+to play. And in terms of betting, the baccarat strategy has much in common with coin 
+flips. </string>
+    <string name="Lotteries"> A lottery is a form of gambling that involves the drawing of numbers at
+random for a prize. Some governments outlaw lotteries, while others endorse it to
+the extent of organizing a national or state lottery. It is common to find some degree
+of regulation of lottery by governments.</string>
+    
+    <string name="Randomness_in_slots">This is by far the most important tip you need to know when
+playing slots. The machines are completely random and no previous events have
+any impact on what will happen next.\n\nThey’re just designed this way. So if you get advice from someone that you should 
+take a seat at a certain machine that hasn’t paid out in a while because it’s due to 
+pay out, then just ignore it. You should always play on the machines that provide you 
+with the most enjoyment and are within your bankroll to play.</string>
+    <string name="Progressive_jackpots">This is usually the case when the jackpot has 
+been recently won and therefore it’s back to being quite low. What 
+you also need to be aware of is that on these slots a small amount 
+from what you bet on a spin is automatically taken and added to the 
+jackpot.</string>
+    <string name="Reviewing_the_playtable">Each machine has an associated pay table 
+that will outline to you what it takes to win. The table will show each 
+of the machines symbols and provide advice on how many of these 
+you need in a line to achieve a win.
+Symbols have different values, from the most common ones to the 
+rare ones, and then the more symbols you get on a pay line the 
+more you win.</string>
+    <string name="Playing_slowly">Slots are designed to be played very quickly as this 
+will result in the biggest possible intake for the casino that houses it.
+Because of this you should take your time in playing slots and don’t 
+continuously spin immediately after the preceding spin finishes. 
+Take some time and analyze the slot face and see how you won, or 
+how you missed out on this occasion.</string>
+    <string name="Studying_the_bonus_rounds">On video slots, the most entertaining part 
+of playing is when you hit a bonus feature. These will give you the 
+opportunity to win big, although sometimes you won’t win much at 
+all.\n
+Bonus features usually result in free spins or offer bonus cash 
+prizes. Each machine is different when it comes to hitting the bonus 
+so make sure you check out the pay table to see what’s required to 
+get into the round.</string>
+    <string name="Make_sure_you_have_fun">Although I’ve provided you with some great
+tips here on how to increase your chances of winning and how to
+play slots in the best possible way, the most important thing is that
+you’re having fun while you play.
+I always play slots for fun, whether it’s to have a few free drinks
+while I play Wheel of Fortune slots in Vegas with my friends, or just
+to pass 30 minutes while I’m waiting for my poker tournament to
+start, it’s always about fun.</string>
+</resources>
